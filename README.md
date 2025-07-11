@@ -75,11 +75,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 
-## Features
-
-- **✅ Authentication:** JWT-based sign up, login, and user management
-- **✅ MongoDB:** Integrated using Mongoose, ready for your models & schemas
-- **✅ DTOs & Decorators:** Input validation with `class-validator` and `class-transformer`
-- **✅ Custom Response Format:** Unified structure for API success and failure responses
-- **✅ Modular:** Easy to scale with new modules
-- **✅ Best Practices:** Follows NestJS conventions
+Features
+	•	✅ Authentication: JWT-based sign up, login, and user management
+	•	✅ MongoDB: Integrated using Mongoose, ready for your models & schemas
+	•	✅ DTOs & Decorators: Input validation with class-validator and class-transformer
+	•	✅ Custom Response Format: Unified structure for API success and failure responses
+	•	✅ Modular: Easy to scale with new modules
+	•	✅ Best Practices: Follows NestJS conventions
